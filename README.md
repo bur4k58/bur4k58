@@ -5,14 +5,15 @@
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/burakocbe">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    <img src="https://komarev.com/ghpvc/?username=bur4k58&style=flat-square&color=blue" alt=""/>
   </a>
 </div>
+      <img src="https://komarev.com/ghpvc/?username=bur4k58&style=flat-square&color=blue" alt=""/>
+
 
 
 <h1>
   hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" align="center"/>
 </h1>
 
 ---
