@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<div id="header" align="center">
+  <img src="https://giphy.com/embed/FoVzfcqCDSb7zCynO" width="100"/>
+</div>
+
 <!--
 **bur4k58/bur4k58** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
